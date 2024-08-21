@@ -33,7 +33,7 @@
 
 ## Other
 [ppt](https://www.canva.com/design/DAGN4gHRa-k/xEfGHS3Y4z48jt64TkKpsQ/view?utm_content=DAGN4gHRa-k&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
-[介紹影片](https://www.youtube.com/watch?v=L8BJZnHiPH4&t=24s)
+[介紹影片](https://www.youtube.com/watch?v=L8BJZnHiPH4&t=3s)
 
 ## References
 https://steam.oxxostudio.tw/category/python/ai/ai-pedestrians.html
