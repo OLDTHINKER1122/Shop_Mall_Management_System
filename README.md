@@ -37,17 +37,17 @@
 [介紹影片](https://youtu.be/YWhE3PqiZvQ)
 
 ## References
-https://steam.oxxostudio.tw/category/python/ai/ai-pedestrians.html
-https://docs.ultralytics.com/yolov5/tutorials/pytorch_hub_model_loading/#simple-example
-https://officeguide.cc/pytorch-yolo-v5-object-egg-detection-models-tutorial-examples/
-https://www.youtube.com/watch?v=P8TTXIf8XEk&list=RDCMUCpuuunu6eo-TLa1eT0gSooQ&start_radio=1&t=916s
-https://www.youtube.com/watch?v=Cg1ql7gQ1Ys
-https://stackoverflow.com/questions/74648336/yolov5-with-opencv
-https://steam.oxxostudio.tw/category/python/ai/ai-face-dectection.html
-https://steam.oxxostudio.tw/category/python/ai/ai-face-recognizer.html
-https://github.com/KuoFuKai/Taiwan_License_Plate_Recognition
-https://medium.com/ching-i/face-recognition-%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98-python-%E6%95%99%E5%AD%B8-75a5e2ef534f
-https://mnya.tw/cc/word/1480.html
-https://medium.com/learning-from-jhipster/13-%E7%94%9A%E9%BA%BC%E6%98%AF-jdbc-orm-jpa-orm%E6%A1%86%E6%9E%B6-hibernate-c762a8c5e112
-https://blog.csdn.net/ruiruiddd/article/details/106857111
-https://www.youtube.com/watch?v=L8BJZnHiPH4&t=3s
+https://steam.oxxostudio.tw/category/python/ai/ai-pedestrians.html  
+https://docs.ultralytics.com/yolov5/tutorials/pytorch_hub_model_loading/#simple-example  
+https://officeguide.cc/pytorch-yolo-v5-object-egg-detection-models-tutorial-examples/  
+https://www.youtube.com/watch?v=P8TTXIf8XEk&list=RDCMUCpuuunu6eo-TLa1eT0gSooQ&start_radio=1&t=916s  
+https://www.youtube.com/watch?v=Cg1ql7gQ1Ys  
+https://stackoverflow.com/questions/74648336/yolov5-with-opencv  
+https://steam.oxxostudio.tw/category/python/ai/ai-face-dectection.html  
+https://steam.oxxostudio.tw/category/python/ai/ai-face-recognizer.html  
+https://github.com/KuoFuKai/Taiwan_License_Plate_Recognition  
+https://medium.com/ching-i/face-recognition-%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98-python-%E6%95%99%E5%AD%B8-75a5e2ef534f  
+https://mnya.tw/cc/word/1480.html  
+https://medium.com/learning-from-jhipster/13-%E7%94%9A%E9%BA%BC%E6%98%AF-jdbc-orm-jpa-orm%E6%A1%86%E6%9E%B6-hibernate-c762a8c5e112  
+https://blog.csdn.net/ruiruiddd/article/details/106857111  
+https://www.youtube.com/watch?v=L8BJZnHiPH4&t=3s  
