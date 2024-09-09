@@ -3,8 +3,6 @@
 ## Poster
 ![358444724-7d091104-0c5a-4504-a4b6-34bd22488417](https://github.com/user-attachments/assets/544f5145-1b47-4f53-924c-aec0aab1f67d)
 
-## flow chart
-![image](https://github.com/user-attachments/assets/708ff8c5-b2f4-43e5-b131-93785939f37b)
 
 ## Program
  - app
