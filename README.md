@@ -1,7 +1,10 @@
 # Shopping_Mall_Management_System
 
 ## Poster
-![D04 資工四1 商場智能管理系統](https://github.com/user-attachments/assets/7d091104-0c5a-4504-a4b6-34bd22488417)
+![D04 資工四1 商場智能管理系統](https://github.com/user-attachments/assets/7d091104-0c5a-4504-a4b6-34bd22488417)  
+
+## flow chart
+![image](https://github.com/user-attachments/assets/708ff8c5-b2f4-43e5-b131-93785939f37b)
 
 ## Program
  - app
@@ -26,7 +29,9 @@
      - PopularDomain.java
      - ChangeNumberItemsListener.java
      - ManagmentCart.java
-     - TinyDB.java
+     - TinyDB.java  
+![image](https://github.com/user-attachments/assets/3814a6d9-f710-4229-811c-e315dcb5893f)
+
  - crowd_control_measures
  - face_recognition
  - Plate_Recognition
